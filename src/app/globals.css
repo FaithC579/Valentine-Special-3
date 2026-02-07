@@ -24,3 +24,19 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.font-romantic-heading {
+  font-family: var(--font-playfair), serif;
+}
+
+.font-handwritten {
+  font-family: var(--font-dancing), cursive;
+}
+
+.font-letter {
+  font-family: var(--font-lora), serif;
+}
+
+.text-romantic-glow {
+  text-shadow: 0 0 15px rgba(236, 72, 153, 0.3);
+}
