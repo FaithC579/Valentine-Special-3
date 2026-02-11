@@ -860,6 +860,10 @@ const LoveMessageSection = memo(() => {
     "Every day with you is an adventure",
     "You make me want to be a better person",
     "Your laugh is my favorite sound",
+    "You make me feel safe being exactly who I am",
+    "With you, even silence feels comfortable",
+    "You understand me in ways I don’t always know how to explain",
+    "Loving you feels natural, like it’s what my heart was made for",
   ];
 
   return (
