@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "2FORU - A Valentine's Day Website",
-  description: "A heartfelt Valentine's Day website to express love and affection. Featuring romantic quotes, a love letter, and a special message for my beloved.",
+  title: "A Special Package for Fey Fey",
+  description: "...",
 };
 
 const playfair = Playfair_Display({ 
